@@ -31,7 +31,7 @@ $ git clone https://github.com/Xcompanygames/Skyminator
 * Put the Skyminator.ipynb file in a folder with a zip containing images 
 * Under "Loading our data" change resp to the name of your zip 
 * Run ALL the notebook
-* A folder named sky_treminated_images will be created, in it all the images that detectron2 found skys in them and deleted them
+* A folder named sky_treminated_images will be created, in it all the images that detectron2 found a sky in them and deleted them
 
 ### Remove all backdrops
 * To remove all backdrops and not just the sky:
