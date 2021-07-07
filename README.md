@@ -29,6 +29,9 @@ $ pip install -e .
 ```sh
 $ git clone https://github.com/Xcompanygames/Skyminator
 ```
+COCO dataset:
+https://cocodataset.org/#
+
 
 ### How to use
 * Put the Skyminator.ipynb file in a folder with a zip containing images 
