@@ -14,6 +14,7 @@ Pytorch, Cuda and Numpy
 ```sh
 $ conda install pytorch torchvision torchaudio cudatoolkit=11.0 -c pytorch
 $ pip install numpy
+$ pip install opencv-python
 ```
 Installing detectron2:
 ```sh
