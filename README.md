@@ -3,7 +3,7 @@ Chaos + Prints designed by Craig Henry
 
 # Sky removal tool
 This program uses Detectron2 pre-trained model and removes skys in the COCO dataset
-![before_after.png](before_after.png)
+![before_after.jpg](before_after.jpg)
 
 ### Dependencies 
 I used Python 3.8
