@@ -33,6 +33,11 @@ $ git clone https://github.com/Xcompanygames/Skyminator
 * Run ALL the notebook
 * A folder named sky_treminated_images will be created, in it all the images that detectron2 found skys in them and deleted them
 
+### Remove all backdrops
+* To remove all backdrops and not just the sky:
+Search for: "and seg_list[indx]['category_id'] == 40" 
+Delete this from the if statement.
+
 
 ### Credit
 Made by Oriel Pinhas, Detectron2 by Facebook
